@@ -7,4 +7,6 @@ Added the markup with relevant scripts and css in a single html file and deploye
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/TitusRobyK/particle-slider-example)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/44a21a74-08c4-4735-a329-350f3575d486/deploy-status)](https://app.netlify.com/sites/follow-the-white-rabbit/deploys)
+
 or checkout https://follow-the-white-rabbit.netlify.app/
